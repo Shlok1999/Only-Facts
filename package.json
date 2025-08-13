@@ -22,8 +22,11 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "fontkit": "^2.0.4",
     "google-auth-library": "^10.2.0",
     "googleapis": "^154.1.0",
-    "nodemon": "^3.1.10"
+    "jspdf": "^3.0.1",
+    "nodemon": "^3.1.10",
+    "pdf-lib": "^1.17.1"
   }
 }
